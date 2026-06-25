@@ -13,7 +13,6 @@ This project integrates Tableau dashboards with Claude MCP to provide AI-assiste
 
 ## Technologies Used
 - Tableau
-- Claude MCP
 - Python
 - Data Analytics
 - Business Intelligence
